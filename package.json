@@ -1,0 +1,32 @@
+{
+  "name": "simplecli",
+  "version": "1.0.0",
+  "description": "Trello API consumer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomipaul/day_2-_simpleCLI.git"
+  },
+  "keywords": [
+    "Trello",
+    "API",
+    "request",
+    "readline",
+    "CLI",
+    "app"
+  ],
+  "author": "Oluwatomi Paul Akande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomipaul/day_2-_simpleCLI/issues"
+  },
+  "homepage": "https://github.com/tomipaul/day_2-_simpleCLI#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "readline": "^1.3.0",
+    "request": "^2.81.0"
+  }
+}
